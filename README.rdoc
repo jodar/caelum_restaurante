@@ -3,5 +3,3 @@
 Esse sistema terá clientes que qualificam os restaurantes visitados com uma nota, além de informar quanto dinheiro gastaram. Os clientes terão a possibilidade de deixar comentários para as qualificações feitas por eles mesmos ou a restaurantes ainda não visitados. Além disso, os restaurantes terão pratos, e cada prato a sua receita.
 
 * Exemplo do livro, do Curso de Ruby on Rails, da Caelum.
-
-<tt>rake doc:app</tt>.
