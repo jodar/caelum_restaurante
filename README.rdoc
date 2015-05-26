@@ -1,28 +1,7 @@
-== README
+== Sistema de qualificação de restaurantes
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Esse sistema terá clientes que qualificam os restaurantes visitados com uma nota, além de informar quanto dinheiro gastaram. Os clientes terão a possibilidade de deixar comentários para as qualificações feitas por eles mesmos ou a restaurantes ainda não visitados. Além disso, os restaurantes terão pratos, e cada prato a sua receita.
 
-Things you may want to cover:
+* Exemplo do livro, do Curso de Ruby on Rails, da Caelum.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
