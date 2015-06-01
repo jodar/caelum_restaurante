@@ -18,7 +18,7 @@ class RestaurantesController < ApplicationController
 			format.xml	{ render xml: @restaurante }
 		end
 	end
-
+	
 	def destroy
 		@restaurante = Restaurante.find(params[:id])
 		@restaurante.destroy
